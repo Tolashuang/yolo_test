@@ -23,3 +23,5 @@ yolov3_detector是基于darknet的检测图片并输出(类别+目标框位置)�
 2.输入命令：./uDetect cfgfile weightfile thresh gpuNo imglist outname 
 
 3.PS：outname可以在uDtetector.cpp进行更改 此版是将输出的txt文件和jpg文件放在一起
+
+https://github.com/Tolashuang/yolov3_detector/blob/master/caea91fd-e457bf7b.jpg
