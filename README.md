@@ -1,6 +1,8 @@
 # yolov3_detector
 
-文档说明：yolov3_detector是基于darknet的检测图片并输出类别+目标框位置坐标代码
+文档说明：
+
+yolov3_detector是基于darknet的检测图片并输出(类别+目标框位置)坐标代码
 
 编译说明：
 
