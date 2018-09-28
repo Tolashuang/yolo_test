@@ -18,6 +18,6 @@
 
 1.cd到放有uDetector的文件夹bin目录下
 
-2../uDetect cfgfile weightfile thresh gpuNo imglist outname 
+2.输入命令：./uDetect cfgfile weightfile thresh gpuNo imglist outname 
 
 3.PS：outname可以在uDtetector.cpp进行更改 此版是将输出的txt文件和jpg文件放在一起
